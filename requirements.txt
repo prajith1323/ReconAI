@@ -1,0 +1,15 @@
+
+requests
+beautifulsoup4
+whois
+shodan
+nltk
+spacy
+openai
+streamlit
+reportlab
+llama-cpp-python
+
+
+python-dotenv
+
